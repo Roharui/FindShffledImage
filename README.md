@@ -2,10 +2,4 @@
 
 정상적인 이미지들 중에 섞인 이미지를 찾고 올바르게 맞춰 주는 인공지능입니다.
 
-# 퍼즐 검색
-
-![finder](./img/find_puzzle.png)
-
-# 퍼즐 맞추기
-
-![clear](./img/clear_puzzle.png)
+cifar10 데이터셋을 사용했습니다. 자세한 사항은 [여기](https://roharui.github.io/posts/Tensorflow-shuffle/)를 참고해주세요.
